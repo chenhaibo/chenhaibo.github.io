@@ -8,7 +8,7 @@ subtitle: 记录人生
 description: 大前端包括ios,android,js,react,vue等技术分享，以及个人生活分享。
 keywords: 大前端,ios,android,js,旅行，生活
 author: 陈海波
-language: 中文
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
