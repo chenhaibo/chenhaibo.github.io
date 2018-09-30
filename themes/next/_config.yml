@@ -405,7 +405,7 @@ gitment:
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: chenhaibo
+  github_user: 5044894
   github_repo: https://github.com/chenhaibo/chenhaibo.github.io
   client_id: 789359e6f79a421065e4
   client_secret: 758cca3b8fab0e18e3872e29e50db11d882f010c
