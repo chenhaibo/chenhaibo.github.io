@@ -14,5 +14,5 @@ macOS 新系统Mojave 开放下载了，完美的深色模式，真的让人舒�
 ## 原因是sketch
 
 sketch 在Mojave下似乎和系统的预览起了冲突？
-不要多说了，如果你也遇到这样的问题，赶紧更新到最新版本的[sketch](https://www.sketchapp.com/)吧，sketch不仅推出了深色模式，无法预览的问题也消失了。
+不要多说了，如果你也遇到这样的问题，赶紧更新到`最新版本`的[sketch](https://www.sketchapp.com/)吧，sketch不仅推出了深色模式，无法预览的问题也消失了。
 
