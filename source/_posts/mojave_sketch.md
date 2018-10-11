@@ -1,6 +1,6 @@
 ---
 title: MacOS Mojave 图片文件无法预览？
-tags: [MacOS]
+tags: [macOS]
 ---
 
 macOS 新系统Mojave 开放下载了，完美的深色模式，真的让人舒服。
